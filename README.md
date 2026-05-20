@@ -26,9 +26,9 @@ I'm a data analyst passionate about uncovering insights from complex datasets an
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| 🔍 *Coming soon* | Data analysis project | Python, Excel |
-| 📈 *Coming soon* | Dashboard & visualization | Power BI, Cognos |
-| 📋 *Coming soon* | Reporting & documentation | Excel, PowerPoint |
+| 🔍 *Canadian Retail Salles KPI* | Data analysis project | Python, Excel |
+| 📈 Canadian Retail Trade Sales | Dashboard & visualization | Power BI |
+| 📋 Canadian Retail Sales Analysis | Reporting & documentation | Excel, PowerPoint |
 
 ---
 
