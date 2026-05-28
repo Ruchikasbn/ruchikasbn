@@ -22,11 +22,11 @@ I'm a data analyst passionate about uncovering insights from complex datasets an
 
 ## 📂 Featured Projects
 
-> 🚧 Projects coming soon — stay tuned!
+> 🚧 Projects
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| 🔍 *Canadian Retail Salles KPI* | Data analysis project | Python, Excel |
+| 🔍 *Canadian Retail Sales KPI* | Data analysis project | Python, Excel |
 | 📈 Canadian Retail Trade Sales | Dashboard & visualization | Power BI |
 | 📋 Canadian Retail Sales Analysis | Reporting & documentation | Excel, PowerPoint |
 
