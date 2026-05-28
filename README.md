@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ruchika+%F0%9F%91%8B;Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Decisions)](https://github.com/Ruchikasbn)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruchika-shekhawat-0b7307114/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ruchika-shekhawat-0b7307114/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ruchikasbn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Ruchikasbn&style=for-the-badge&color=555555&label=PROFILE+VIEWS"/>
 </p>
