@@ -57,7 +57,7 @@
 
 ## 📌 Featured Projects
 
-### 📊 [Canadian Retail Trade Sales Analysis (2017–2026)](https://github.com/Ruchikasbn/canadian-retail-sales)
+### 📊 [Canadian Retail Trade Sales Analysis (2017–2026)](https://github.com/Ruchikasbn/Canadian-Retail-Sales-Analytics)
 > End-to-end data analysis of Statistics Canada's monthly retail trade data across all provinces, territories, and cities.
 - **Tools:** Python · Pandas · Matplotlib · Seaborn · Power BI · Jupyter
 - **Highlights:** 66K+ rows cleaned & engineered · 30 NAICS industries · 23 geographies · e-commerce growth tracking · interactive Power BI dashboard
